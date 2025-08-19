@@ -1,4 +1,4 @@
-https://github.com/TelegramPlayGround/pyrogram/archive/refs/heads/unknown_errors.zip
+pyroblack 
 tgcrypto
 pyropatch
 humanize 
