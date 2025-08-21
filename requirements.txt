@@ -14,5 +14,4 @@ gunicorn
 Jinja2
 werkzeug
 itsdangerous
-uvloop
 python-dotenv
